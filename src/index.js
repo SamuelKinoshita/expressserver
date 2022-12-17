@@ -18,5 +18,4 @@ app.listen(process.env.Port || 3000, ()=> {
     console.log("servidor estar rodando")
 })
 
-//console.log()
-
+console.log()
